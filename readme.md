@@ -1,7 +1,3 @@
-Demo
-new line
-new line in b2
-
 ---
 output:
   pdf_document: default
