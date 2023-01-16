@@ -1,16 +1,5 @@
----
-output:
-  pdf_document: default
-header-includes:  
-- \usepackage{lscape}  
----
-
-
-::::::::{.landscape data-latex=""}
-
-11 12 13
--- -- --
-21 22 23
-31 32 33
-
-::::::::
+1st Header|2nd Header|3rd Header
+---|:---:|---: 
+col 1 is|left-aligned|1
+col 2 is|center-aligned|2
+col 3 is|right-aligned|3
